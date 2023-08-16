@@ -76,7 +76,7 @@ Here are some sample plots generated from the analysis:
    ![Heat Map for Robberies](assets/HM_robb.png)
 
 9. **Final Density Map**
-    - [Download the Interactive Density Map](https://drive.google.com/file/d/1VS1V2_8RFwI-s8gZFoJkBvHcHCUFsDwU/view?usp=drive_link)
+    - [Download the Interactive Density Map](https://drive.google.com/file/d/1VS1V2_8RFwI-s8gZFoJkBvHcHCUFsDwU/view?usp=sharing)
 ![Density Map](assets/final.png)
 
 
@@ -84,7 +84,7 @@ Here are some sample plots generated from the analysis:
 
 **The final product of this project is an interactive density map that highlights crime hotspots within the city of Atlanta.** Due to its file size, I've provided a download link for the map:
 
-- [Download the Interactive Density Map](https://drive.google.com/file/d/1VS1V2_8RFwI-s8gZFoJkBvHcHCUFsDwU/view?usp=drive_link)
+- [Download the Interactive Density Map](https://drive.google.com/file/d/1VS1V2_8RFwI-s8gZFoJkBvHcHCUFsDwU/view?usp=sharing)
 
 To explore the analysis and findings of this project, you can:
 
