@@ -1,8 +1,8 @@
 # Atlanta Crime Analysis
 
-![GitHub repo size](https://img.shields.io/github/repo-size/YourUsername/Atlanta-Crime-Analysis)
-![GitHub stars](https://img.shields.io/github/stars/YourUsername/Atlanta-Crime-Analysis?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YourUsername/Atlanta-Crime-Analysis?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/JosephGyegyiri/Atlanta-Crime-Analysis)
+![GitHub stars](https://img.shields.io/github/stars/JosephGyegyiri/Atlanta-Crime-Analysis?style=social)
+![GitHub forks](https://img.shields.io/github/forks/JosephGyegyiri/Atlanta-Crime-Analysis?style=social)
 
 Welcome to the **Atlanta Crime Analysis** repository! This project focuses on performing geospatial analysis of the Atlanta Police Department's crime data spanning from 2009 to 2020. Through data visualization, exploration, and interpretation, we aim to gain insights into crime trends, hotspots, and patterns within the city of Atlanta.
 
@@ -73,6 +73,10 @@ Here are some sample plots generated from the analysis:
 
 8. **Heat Map for Robberies**
    ![Heat Map for Robberies](assets/HM_robb.png)
+
+9. **Final Density Map**
+    - [Download the Interactive Density Map](https://drive.google.com/file/d/1VS1V2_8RFwI-s8gZFoJkBvHcHCUFsDwU/view?usp=drive_link)
+![Density Map](assets/final.png)
 
 
 ## Usage
