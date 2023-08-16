@@ -4,7 +4,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/JosephGyegyiri/Atlanta-Crime-Analysis?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/JosephGyegyiri/Atlanta-Crime-Analysis?style=social)
 
-Welcome to the **Atlanta Crime Analysis** repository! This project focuses on performing geospatial analysis of the Atlanta Police Department's crime data spanning from 2009 to 2020. Through data visualization, exploration, and interpretation, we aim to gain insights into crime trends, hotspots, and patterns within the city of Atlanta.
+Welcome to the **Atlanta Crime Analysis** repository! 
+This project focuses on performing geospatial analysis of the Atlanta Police Department's crime data spanning from 2009 to 2020. Through data visualization, exploration, and interpretation, we aim to gain insights into crime trends, hotspots, and patterns within the city of Atlanta.
 
 ## Table of Contents
 
