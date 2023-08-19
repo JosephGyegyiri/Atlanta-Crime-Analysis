@@ -5,7 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/JosephGyegyiri/Atlanta-Crime-Analysis?style=social)
 
 Welcome to the **Atlanta Crime Analysis** repository! 
-This project focuses on performing geospatial analysis of the Atlanta Police Department's crime data spanning from 2009 to 2020. Through data visualization, exploration, and interpretation, we aim to gain insights into crime trends, hotspots, and patterns within the city of Atlanta.
+This project focuses on performing geospatial analysis of the Atlanta Police Department's crime data spanning from 2009 to 2020. Through data visualization, exploration, and interpretation, we aim to gain insights into crime trends, hotspots, and patterns within the city of Atlanta. **An interactive crime density map was created with data from 2016-2022** at the end of the project.
 
 ## Table of Contents
 
@@ -76,7 +76,7 @@ Here are some sample plots generated from the analysis:
    ![Heat Map for Robberies](assets/HM_robb.png)
 
 9. **Final Density Map**
-    - [Download the Interactive Density Map](https://drive.google.com/file/d/1VS1V2_8RFwI-s8gZFoJkBvHcHCUFsDwU/view?usp=sharing)
+    - [Click here to use the Interactive Density Map](https://josephgyegyiri.github.io/density-map/)
 ![Density Map](assets/final.png)
 
 
@@ -84,13 +84,15 @@ Here are some sample plots generated from the analysis:
 
 **The final product of this project is an interactive density map that highlights crime hotspots within the city of Atlanta.** Due to its file size, I've provided a download link for the map:
 
-- [Download the Interactive Density Map](https://drive.google.com/file/d/1VS1V2_8RFwI-s8gZFoJkBvHcHCUFsDwU/view?usp=sharing)
+- [Use the Interactive Density Map](https://josephgyegyiri.github.io/density-map/)
 
 To explore the analysis and findings of this project, you can:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/JosephGyegyiri/Atlanta-Crime-Analysis.git
+
+2. install the reqiured packages and dive into the realm of **Skerlock Holmes**
 
 
 ## Contributing
